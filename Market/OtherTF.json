@@ -1,0 +1,98 @@
+{
+    "m_Version": 12,
+    "DisplayName": "OTHERTF",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 70.0,
+    "Items": [
+        {
+            "ClassName": "TF_Atlas_Bipod",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_Harris_Bipod"]
+        },
+        {
+            "ClassName": "TF_M14_Adapter",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 720,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 60,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_RifleSling_Black",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 480,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_RifleSling_Brown", "TF_RifleSling_OD"]
+        },
+        {
+            "ClassName": "TF_NVGoggles_AVS9",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": ["battery12v"],
+            "Variants": ["TF_NVGoggles_PVS14", "TF_NVGoggles_PVS15", "TF_NVGoggles_PNV10T"]
+        },
+        {
+            "ClassName": "TF_Foil_hat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 80,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_6B43PelvisArmor",
+            "MaxPriceThreshold": 5500,
+            "MinPriceThreshold": 3300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 40,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_6B43PelvisArmor_Syrian"]
+        },
+        {
+            "ClassName": "TF_AK_6kh5Bayonet",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 60,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_6kh5KnifeSheath"]
+        },
+        {
+            "ClassName": "TF_AK_Tactica_Tula10000Receiver",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 30,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_AK_B33Receiver"]
+        }
+    ]
+}

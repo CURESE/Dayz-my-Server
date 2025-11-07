@@ -1,0 +1,98 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PISTOLGRIPSTF",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TF_M4_MIADPistolGrip_FDE",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_M4_MOEPistolGrip_FDE",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 330,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_M4_MOEPistolGrip_Black"]
+        },
+        {
+            "ClassName": "TF_M4_OMRGPistolGrip_FDE",
+            "MaxPriceThreshold": 520,
+            "MinPriceThreshold": 310,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_M4_OMRGPistolGrip_Black"]
+        },
+        {
+            "ClassName": "TF_M4_TDSPistolGrip",
+            "MaxPriceThreshold": 480,
+            "MinPriceThreshold": 290,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_AK_ZenitRK3PistolGrip",
+            "MaxPriceThreshold": 530,
+            "MinPriceThreshold": 320,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_AK_KGBMG47PistolGrip_FDE",
+            "MaxPriceThreshold": 510,
+            "MinPriceThreshold": 305,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_AK_MOEPistolGrip_Black",
+            "MaxPriceThreshold": 540,
+            "MinPriceThreshold": 325,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_AK_TAPCOPistolGrip_Black",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 335,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_AK_TAPCOPistolGrip_FDE"]
+        }
+    ]
+}

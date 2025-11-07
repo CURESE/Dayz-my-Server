@@ -1,0 +1,230 @@
+{
+    "m_Version": 12,
+    "DisplayName": "POUCHESTF",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 80.0,
+    "Items": [
+        {
+            "ClassName": "TF_PlateCarrierPouches_EMR",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 720,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_PlateCarrierPouches_Coyote"]
+        },
+        {
+            "ClassName": "TF_PlateCarrierHolster_EMR",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 80,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_PlateCarrierHolster_Coyote"]
+        },
+        {
+            "ClassName": "TF_6B43MagPouch",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 540,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_6B43MagPouch_Syrian"]
+        },
+        {
+            "ClassName": "TF_6B43GrenPouch",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 80,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_6B43GrenPouch_Syrian"]
+        },
+        {
+            "ClassName": "TF_DumpMagPouch",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 480,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_DumpMagPouch_Khaki"]
+        },
+        {
+            "ClassName": "TF_3GrenPouch",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 660,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 80,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_3GrenPouch_Khaki"]
+        },
+        {
+            "ClassName": "TF_2GrenPouch",
+            "MaxPriceThreshold": 950,
+            "MinPriceThreshold": 570,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 80,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_2GrenPouch_Khaki"]
+        },
+        {
+            "ClassName": "TF_LMGPouch",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 780,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 60,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_LMGPouch_Khaki"]
+        },
+        {
+            "ClassName": "TF_LMG_M4Pouch",
+            "MaxPriceThreshold": 1250,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 60,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_LMG_M4Pouch_Khaki"]
+        },
+        {
+            "ClassName": "TF_Mag2Pouch",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 510,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_Mag2Pouch_Khaki"]
+        },
+        {
+            "ClassName": "TF_Mag3Pouch",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 540,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_Mag3Pouch_Khaki"]
+        },
+        {
+            "ClassName": "TF_MedPouch1",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 660,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 80,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_MedPouch1_Khaki"]
+        },
+        {
+            "ClassName": "TF_MedPouch2",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 780,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 70,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_MedPouch2_Coyote"]
+        },
+        {
+            "ClassName": "TF_MedPouch3",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 60,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_MedPouch3_Khaki"]
+        },
+        {
+            "ClassName": "TF_AVSMag3Pouch_Coyote",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 80,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_AVSMag3Pouch_Khaki"]
+        },
+        {
+            "ClassName": "TF_FastMag3Pouch_Khaki",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 660,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 70,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_FastMag3Pouch_Coyote"]
+        },
+        {
+            "ClassName": "TF_AFAKMedPouch_Khaki",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 840,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 60,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_AFAKMedPouch_Coyote"]
+        },
+        {
+            "ClassName": "TF_AVSGren2Pouch_Coyote",
+            "MaxPriceThreshold": 1050,
+            "MinPriceThreshold": 630,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 70,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_AVSGren2Pouch_Khaki"]
+        },
+        {
+            "ClassName": "TF_LargeUtilityPouch_Khaki",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 780,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 70,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_LargeUtilityPouch_Coyote"]
+        },
+        {
+            "ClassName": "TF_JPCMag3Pouch_Coyote",
+            "MaxPriceThreshold": 950,
+            "MinPriceThreshold": 570,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 80,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

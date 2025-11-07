@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HELMETSTF",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 65.0,
+    "Items": [
+        {
+            "ClassName": "TF_6B47Helmet",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 10800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_6B47HelmetCover_EMR", "TF_6B47HelmetCover_Syrian"]
+        },
+        {
+            "ClassName": "TF_LSHZHelmet_OD",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_MICH2000Helmet",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 7200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 60,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_MICH2000Helmet_Khaku", "TF_MICH2000Helmet_Black", "TF_MICH2000HelmetCover_Woodland"]
+        },
+        {
+            "ClassName": "TF_WeldingMask_Tagilla",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 30,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_WeldingMask"]
+        },
+        {
+            "ClassName": "TF_Maska1Helmet",
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 9600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 40,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": ["TF_Maska1Visor", "TF_Maska1SchVisor"]
+        }
+    ]
+}
